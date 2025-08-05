@@ -89,7 +89,7 @@ This project predicts telecom customer churn using machine learning. It analyzes
 
 Feel free to connect or ask questions!  
 **Sarabjeet Singh**  
-[LinkedIn](https://www.linkedin.com/in/your-link/) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/sarabjeetsingh20/) | [Email](mailto:sarabjeet.singh949@gmail.com)
 
 ---
 
